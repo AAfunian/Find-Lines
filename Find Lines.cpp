@@ -5,6 +5,7 @@
 #include <iostream>
 #include <sstream>
 #include <fstream>
+#include <string>
 using namespace std;
 
 // Looks for specific string in input file, outputs line containing said string
