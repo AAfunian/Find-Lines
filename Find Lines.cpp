@@ -38,9 +38,7 @@ int main() {
 				ost << line << '\t' << temp << '\n';
 			}
 		}
-		if (ist.eof()) {
-			return 0;
-		}
+		if (ist.eof()) return 0;
 	}
 
 	return 0;
